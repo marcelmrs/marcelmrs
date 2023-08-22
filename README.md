@@ -1,6 +1,6 @@
 <a href="https://github.com/marcelmrs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelmrs&show_icons=true&theme=dracula" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelmrs&layout=compact&langs_count=8&theme=dracula" />
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelmrs&show_icons=true&theme=dracula" />
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelmrs&layout=compact&langs_count=8&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
